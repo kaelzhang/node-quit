@@ -1,0 +1,1 @@
+# quit [![NPM version](https://badge.fury.io/js/quit.png)](http://badge.fury.io/js/quit) [![Build Status](https://travis-ci.org/kaelzhang/node-quit.png?branch=master)](https://travis-ci.org/kaelzhang/node-quit) [![Dependency Status](https://gemnasium.com/kaelzhang/node-quit.png)](https://gemnasium.com/kaelzhang/node-quit)
